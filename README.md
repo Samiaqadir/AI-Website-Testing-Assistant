@@ -30,8 +30,9 @@ The project pairs a **headless automated CLI test runner** (`npm run test:demo`)
 Clone the repository and install dependencies with a single command:
 
 ```bash
-# 1. Clone repository (or navigate to project directory)
-cd ai-qa-testing-assistant
+# 1. Clone repository
+git clone https://github.com/Samiaqadir/AI-Website-Testing-Assistant.git
+cd AI-Website-Testing-Assistant
 
 # 2. Install dependencies (lightweight, zero bloated test packages)
 npm install
